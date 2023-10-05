@@ -45,11 +45,11 @@
   },
   "dependencies": {
     "@builder.io/react": "^1.1.47",
-    "@builder.io/widgets": "^1.2.21",
+    "@builder.io/widgets": "^1.2.24",
     "@vercel/fetch": "^6.1.0",
     "atob": "^2.1.2",
     "jest": "^26.6.3",
-    "next": "^11.1.3",
+    "next": "^13.5.4",
     "next-seo": "^4.11.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -61,7 +61,7 @@
     "@types/react": "^16.9.49",
     "bunyan": "^1.8.14",
     "bunyan-prettystream": "^0.1.3",
-    "next-unused": "^0.0.3",
+    "next-unused": "^0.0.6",
     "prettier": "^2.1.2",
     "typescript": "^4.0.3"
   },
